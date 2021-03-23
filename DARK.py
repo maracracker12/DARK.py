@@ -14,7 +14,7 @@
 �l�m�Z�d�d�l�m�Z�d�d�l�m �Z �e!�e�ƒ�e�j"�d�ƒ�e�j �ƒ��Z#�e#�j$�e��ƒ�e#�j%�e�j&�j'�ƒ��d�d�ƒd0�g�e#�_(�d1�g�e#�_(�d�„��Z)�d�„��Z*�e�j�d�ƒ�d�„��Z+�d�„��Z,�d�„��Z-�d�„��Z.�d��Z/�g��a0�g��Z1�g��a2�d�Z3�d�Z4�e�j�d�ƒ�d �Z5�Z5�d��Z/�g��Z6�g��a2�g��a0�g��Z1�e�j�d!�ƒ�d"�GHd#�Z7�d$�Z8�d%�Z9�x�e9�d%�k�r&e:�d&�ƒ�Z;�e;�e7�k�re:�d'�ƒ�Z<�e<�e8�k�rüd(�GHe�j�d)�ƒ�e�j�d*�ƒ�d+�Z9�q#d,�GHe�j�d�ƒ�q˜d,�GHe�j�d�ƒ�q˜Wd-�„��Z=�d.�„��Z>�e?�d/�k�rOe=�ƒ��n��d�S(2���i����iÿÿÿÿNc����������C���sÒ���t��t�j�ƒ��ƒ�t��t�j�ƒ��ƒ�}��d�j�|��ƒ�}�d�|�GHye�t�j�d�ƒ�j�}�|�|�k�r‚�d�GHt��t�j�ƒ��ƒ�}�t�j	�d�ƒ�n�d�GHt�j	�d�ƒ�t
 �j�ƒ��Wn,�t
 �j�ƒ��t�d�k�rÎ�t
-�GHt�ƒ��qÎ�n�Xd��S(���Nt���-s���[37;1mYOUR ID : sC���https://raw.githubusercontent.com/MATIN-CODERR/ACTIVE/main/list.txts���[92mYOUR ID IS ACTIVE.........i���s!���[91mYOUR ID IS NOT ACTIVE.......t���__main__(���t���strt���ost���geteuidt���getlogint���joint���requestst���gett���textt���timet���sleept���syst���exitt���namet���logot���chk(���t���uuidt���idt���httpCahtt���msg(����(����s
+�GHt�ƒ��qÎ�n�Xd��S(���Nt���-s���[37;1mYOUR ID : sC���https://raw.githubusercontent.com/maracracker12/DARK.py/main/list.txt���[92mYOUR ID IS ACTIVE.........i���s!���[91mYOUR ID IS NOT ACTIVE.......t���__main__(���t���strt���ost���geteuidt���getlogint���joint���requestst���gett���textt���timet���sleept���syst���exitt���namet���logot���chk(���t���uuidt���idt���httpCahtt���msg(����(����s
 ���180158516o.pyR���
 ���s$����"	
 
